@@ -1,0 +1,6 @@
+com/nexttech/batchprocessing/BatchConfiguration.class
+com/nexttech/batchprocessing/JobCompletionNotificationListener.class
+com/nexttech/batchprocessing/BatchConfiguration$1.class
+com/nexttech/batchprocessing/PersonItemProcessor.class
+com/nexttech/batchprocessing/Person.class
+com/nexttech/batchprocessing/NextTechBatchProcessingApplication.class
